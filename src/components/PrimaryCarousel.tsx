@@ -54,13 +54,13 @@ export default function PrimaryCarousel() {
             <div className="relative z-10 w-[92vw] max-w-7xl flex justify-end mt-4 space-x-3 pr-2">
                 <button
                     onClick={handlePrev}
-                    className="w-10 h-10 rounded-full border-2 border-sage text-sage flex items-center justify-center hover:bg-sage hover:text-cream transition-colors"
+                    className="w-12 h-12 rounded-[2rem] border-2 border-sage text-sage-dark flex items-center justify-center bg-cream pill-shadow"
                 >
                     <ChevronLeft size={20} />
                 </button>
                 <button
                     onClick={handleNext}
-                    className="w-10 h-10 rounded-full border-2 border-sage text-sage flex items-center justify-center hover:bg-sage hover:text-cream transition-colors"
+                    className="w-12 h-12 rounded-[2rem] border-2 border-sage text-sage-dark flex items-center justify-center bg-cream pill-shadow"
                 >
                     <ChevronRight size={20} />
                 </button>

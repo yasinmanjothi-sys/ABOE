@@ -200,7 +200,7 @@ export default function MenuGrid() {
             <div className="max-w-4xl mx-auto flex flex-col items-center">
 
                 {/* Tab Navigation */}
-                <div className="flex space-x-8 mb-8 font-bristol text-4xl md:text-6xl tracking-wide">
+                <div className="flex flex-wrap justify-center gap-x-6 gap-y-4 mb-10 font-bristol text-3xl md:text-5xl lg:text-6xl tracking-wide">
                     <button
                         onClick={() => handleTabChange('food')}
                         className={`transition-opacity ${activeTab === 'food' ? 'opacity-100' : 'opacity-40 hover:opacity-70'}`}
@@ -222,7 +222,7 @@ export default function MenuGrid() {
                 </div>
 
                 {/* Sub-Tab Navigation */}
-                <div className="flex flex-wrap justify-center gap-x-8 gap-y-4 mb-16 font-bristol text-xl md:text-3xl tracking-wide uppercase">
+                <div className="flex flex-wrap justify-center gap-x-4 gap-y-2 lg:gap-x-8 lg:gap-y-4 mb-16 font-bristol text-lg sm:text-xl md:text-2xl lg:text-3xl tracking-wide uppercase">
                     {activeData.map((section, idx) => (
                         <button
                             key={idx}

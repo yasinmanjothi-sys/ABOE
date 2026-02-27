@@ -8,13 +8,14 @@ export default function Hero() {
 
                 {/* Logo Illustration */}
                 <div className="absolute top-[45%] left-1/2 -translate-x-1/2 -translate-y-1/2 z-10 w-full px-4 flex justify-center pointer-events-none">
-                    <div className="w-[90vw] max-w-[400px] sm:max-w-[500px] aspect-square md:w-[35rem] md:h-[35rem] lg:w-[45rem] lg:h-[45rem] xl:w-[50rem] xl:h-[50rem] relative flex items-center justify-center pointer-events-auto">
+                    <div className="w-[85vw] max-w-[350px] sm:max-w-[450px] aspect-[4/3] md:w-[35rem] md:h-[28rem] lg:w-[45rem] lg:h-[35rem] xl:w-[50rem] xl:h-[40rem] relative flex items-center justify-center pointer-events-auto">
                         <Image
-                            src="/LOGO.svg"
+                            src={`/LOGO.svg?v=${Date.now()}`}
                             alt="Aboe Restaurant Logo"
                             fill
                             className="object-contain brightness-0"
                             priority
+                            unoptimized={true}
                         />
                     </div>
                 </div>

@@ -34,7 +34,7 @@ export default function Navbar({ alwaysShow = false }: { alwaysShow?: boolean })
             className={`fixed top-0 left-0 right-0 z-50 flex items-center justify-between px-6 py-6 ${alwaysShow ? 'text-sage-dark bg-cream/80 backdrop-blur-md shadow-sm' : 'mix-blend-difference text-cream'}`}
         >
             <div className="flex-1">
-                <Link href="/#menu" className="hidden md:inline-block text-xs uppercase tracking-widest font-caveat border border-current px-4 py-2 rounded-full hover:bg-sage hover:text-cream transition-colors">
+                <Link href="/#menu" className="hidden md:inline-block px-6 py-2 rounded-[2rem] border-2 border-sage text-sage-dark font-caveat text-xs tracking-widest uppercase bg-transparent pill-shadow">
                     Menu
                 </Link>
             </div>
@@ -46,7 +46,7 @@ export default function Navbar({ alwaysShow = false }: { alwaysShow?: boolean })
             </div>
 
             <div className="flex-1 flex justify-end">
-                <Link href="/reserve" className="hidden md:inline-block text-xs uppercase tracking-widest font-caveat border border-current px-4 py-2 rounded-full hover:bg-sage hover:text-cream transition-colors">
+                <Link href="/reserve" className="hidden md:inline-block px-6 py-2 rounded-[2rem] border-2 border-sage text-sage-dark font-caveat text-xs tracking-widest uppercase bg-transparent pill-shadow">
                     Book a table
                 </Link>
             </div>

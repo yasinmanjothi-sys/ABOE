@@ -51,8 +51,8 @@ export default function LocationCarousel() {
                     Serving up fresh Mediterranean flavors daily. Dive into our signature sourdough pizzas, vibrant salads, and comforting pastas, with plenty of delicious vegan and vegetarian-friendly options to choose from.
                 </p>
 
-                {/* PIZZA Illustration precisely positioned in the empty middle gap */}
-                <div className="absolute top-[65%] lg:top-1/2 -translate-y-1/2 right-[4rem] lg:right-[4rem] xl:right-[6rem] w-96 h-96 md:w-[28rem] md:h-[28rem] lg:w-[600px] lg:h-[600px] pointer-events-none opacity-90 z-0">
+                {/* PIZZA Illustration precisely positioned in the empty middle gap on desktop, stacked on mobile */}
+                <div className="relative mt-12 mx-auto lg:mt-0 lg:absolute lg:top-1/2 lg:-translate-y-1/2 lg:right-[4rem] xl:right-[6rem] w-64 h-64 md:w-80 md:h-80 lg:w-[600px] lg:h-[600px] pointer-events-none opacity-90 z-0">
                     <Image
                         src="/PIZZA.svg"
                         alt="Pizza Sketch"
@@ -101,13 +101,13 @@ export default function LocationCarousel() {
                 <div className="flex space-x-4">
                     <button
                         onClick={handlePrev}
-                        className="w-10 h-10 rounded-full border border-sage text-sage flex items-center justify-center hover:bg-sage hover:text-cream transition-colors"
+                        className="w-12 h-12 rounded-[2rem] border-2 border-sage text-sage-dark flex items-center justify-center bg-cream pill-shadow"
                     >
                         <ChevronLeft size={16} />
                     </button>
                     <button
                         onClick={handleNext}
-                        className="w-10 h-10 rounded-full border border-sage text-sage flex items-center justify-center hover:bg-sage hover:text-cream transition-colors"
+                        className="w-12 h-12 rounded-[2rem] border-2 border-sage text-sage-dark flex items-center justify-center bg-cream pill-shadow"
                     >
                         <ChevronRight size={16} />
                     </button>

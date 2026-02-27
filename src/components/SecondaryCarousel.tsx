@@ -52,8 +52,8 @@ export default function SecondaryCarousel() {
                     We believe great food begins with fresh ingredients and bold flavours. Every dish is passionately crafted from scratch to bring you an unforgettable dining experience.
                 </p>
 
-                {/* PASTA Illustration precisely positioned in the empty middle gap */}
-                <div className="absolute top-[65%] lg:top-1/2 -translate-y-1/2 left-auto right-[2rem] lg:right-0 xl:right-[2rem] 2xl:right-[4rem] w-96 h-96 md:w-[28rem] md:h-[28rem] lg:w-[600px] lg:h-[600px] pointer-events-none opacity-90 z-0 scale-x-[-1]">
+                {/* PASTA Illustration precisely positioned in the empty middle gap on desktop, stacked on mobile */}
+                <div className="relative mt-12 mx-auto lg:mt-0 lg:absolute lg:top-1/2 lg:-translate-y-1/2 lg:left-auto lg:right-0 xl:right-[2rem] 2xl:right-[4rem] w-64 h-64 md:w-80 md:h-80 lg:w-[600px] lg:h-[600px] pointer-events-none opacity-90 z-0 scale-x-[-1]">
                     <Image
                         src="/PASTA.svg"
                         alt="Pasta Sketch"
@@ -102,13 +102,13 @@ export default function SecondaryCarousel() {
                 <div className="flex space-x-4">
                     <button
                         onClick={handlePrev}
-                        className="w-10 h-10 rounded-full border border-sage text-sage flex items-center justify-center hover:bg-sage hover:text-cream transition-colors"
+                        className="w-12 h-12 rounded-[2rem] border-2 border-sage text-sage-dark flex items-center justify-center bg-cream pill-shadow"
                     >
                         <ChevronLeft size={16} />
                     </button>
                     <button
                         onClick={handleNext}
-                        className="w-10 h-10 rounded-full border border-sage text-sage flex items-center justify-center hover:bg-sage hover:text-cream transition-colors"
+                        className="w-12 h-12 rounded-[2rem] border-2 border-sage text-sage-dark flex items-center justify-center bg-cream pill-shadow"
                     >
                         <ChevronRight size={16} />
                     </button>

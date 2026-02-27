@@ -1,0 +1,859 @@
+<!doctype html >
+<!--[if IE 8]>    <html class="ie8" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+    <title>Page not found - US Updates</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="https://usupdates.org/xmlrpc.php" />
+    <meta name='robots' content='noindex, follow' />
+<link rel="icon" type="image/png" href="https://usupdates.org/wp-content/uploads/2018/09/sticky_logo@2x-300x94.png">
+	<!-- This site is optimized with the Yoast SEO plugin v27.0 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:title" content="Page not found - US Updates" />
+	<meta property="og:site_name" content="US Updates" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://usupdates.org/#website","url":"https://usupdates.org/","name":"US Updates","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://usupdates.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="US Updates &raquo; Feed" href="https://usupdates.org/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 11px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 32px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--regular: 15px;--wp--preset--font-size--larger: 50px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='ez-toc-css' href='https://usupdates.org/wp-content/plugins/easy-table-of-contents/assets/css/screen.min.css?ver=2.0.81' type='text/css' media='all' />
+<style id='ez-toc-inline-css' type='text/css'>
+div#ez-toc-container .ez-toc-title {font-size: 120%;}div#ez-toc-container .ez-toc-title {font-weight: 500;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-size: 95%;}div#ez-toc-container ul li , div#ez-toc-container ul li a {font-weight: 500;}div#ez-toc-container nav ul ul li {font-size: 90%;}.ez-toc-box-title {font-weight: bold; margin-bottom: 10px; text-align: center; text-transform: uppercase; letter-spacing: 1px; color: #666; padding-bottom: 5px;position:absolute;top:-4%;left:5%;background-color: inherit;transition: top 0.3s ease;}.ez-toc-box-title.toc-closed {top:-25%;}
+/*# sourceURL=ez-toc-inline-css */
+</style>
+<link rel='stylesheet' id='td-plugin-newsletter-css' href='https://usupdates.org/wp-content/plugins/td-newsletter/style.css?ver=12.6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='td-plugin-multi-purpose-css' href='https://usupdates.org/wp-content/plugins/td-composer/td-multi-purpose/style.css?ver=8505194c2950b1bf800079c503a07e37' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-style-css' href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%7CRoboto%3A400%2C600%2C700&#038;display=swap&#038;ver=12.6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='recent-posts-widget-with-thumbnails-public-style-css' href='https://usupdates.org/wp-content/plugins/recent-posts-widget-with-thumbnails/public.css?ver=7.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tds-front-css' href='https://usupdates.org/wp-content/plugins/td-subscription/assets/css/tds-front.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='td-theme-css' href='https://usupdates.org/wp-content/themes/Newspaper/style.css?ver=12.6.9' type='text/css' media='all' />
+<style id='td-theme-inline-css' type='text/css'>@media (max-width:767px){.td-header-desktop-wrap{display:none}}@media (min-width:767px){.td-header-mobile-wrap{display:none}}</style>
+<link rel='stylesheet' id='addtoany-css' href='https://usupdates.org/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+/*# sourceURL=addtoany-inline-css */
+</style>
+<link rel='stylesheet' id='td-legacy-framework-front-style-css' href='https://usupdates.org/wp-content/plugins/td-composer/legacy/Newspaper/assets/css/td_legacy_main.css?ver=8505194c2950b1bf800079c503a07e37' type='text/css' media='all' />
+<link rel='stylesheet' id='td-standard-pack-framework-front-style-css' href='https://usupdates.org/wp-content/plugins/td-standard-pack/Newspaper/assets/css/td_standard_pack_main.css?ver=1b3d5bf2c64738aa07b4643e31257da9' type='text/css' media='all' />
+<link rel='stylesheet' id='tdb_style_cloud_templates_front-css' href='https://usupdates.org/wp-content/plugins/td-cloud-library/assets/css/tdb_main.css?ver=f6b4e4ee000751786489ff7d2b0c153a' type='text/css' media='all' />
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+
+//# sourceURL=addtoany-core-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" src="https://usupdates.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://usupdates.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" defer src="https://usupdates.org/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<link rel="https://api.w.org/" href="https://usupdates.org/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://usupdates.org/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.1" />
+    <script>
+        window.tdb_global_vars = {"wpRestUrl":"https:\/\/usupdates.org\/wp-json\/","permalinkStructure":"\/%postname%\/"};
+        window.tdb_p_autoload_vars = {"isAjax":false,"isAdminBarShowing":false};
+    </script>
+    
+    <style id="tdb-global-colors">:root{--accent-color:#fff}</style>
+
+    
+	
+<!-- BEGIN Clicky Analytics v2.2.4 Tracking - https://wordpress.org/plugins/clicky-analytics/ -->
+<script type="text/javascript">
+  var clicky_custom = clicky_custom || {};
+  clicky_custom.outbound_pattern = ['/go/','/out/'];
+</script>
+
+<script async src="//static.getclicky.com/101458314.js"></script>
+
+<!-- END Clicky Analytics v2.2.4 Tracking -->
+
+<meta name="publisuites-verify-code" content="aHR0cDovL3VzdXBkYXRlcy5vcmc=" />
+<meta name="pressbay-verify" content="6MJlzanbO3HuZIP1FtHj">
+<meta name="posticywebsite" content="a7ljnqajTyMr1lfMPCl9DJxC6c6dRa">
+<script type="text/javascript">
+    window._mNHandle = window._mNHandle || {};
+    window._mNHandle.queue = window._mNHandle.queue || [];
+    medianet_versionId = "3121199";
+</script>
+<script src="//contextual.media.net/dmedianet.js?cid=8CUSFX4N7" async="async"></script>
+<meta name="google-site-verification" content="ZddzJq6RD3yWHpTph_3XWZ_aXfDBWrHqNFf04whF234" />
+<meta name="3zL18G" content="JMQY6M" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LBBFQVQPKC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LBBFQVQPKC');
+</script>
+
+
+
+
+
+<!-- JS generated by theme -->
+
+<script type="text/javascript" id="td-generated-header-js">
+    
+    
+
+	    var tdBlocksArray = []; //here we store all the items for the current page
+
+	    // td_block class - each ajax block uses a object of this class for requests
+	    function tdBlock() {
+		    this.id = '';
+		    this.block_type = 1; //block type id (1-234 etc)
+		    this.atts = '';
+		    this.td_column_number = '';
+		    this.td_current_page = 1; //
+		    this.post_count = 0; //from wp
+		    this.found_posts = 0; //from wp
+		    this.max_num_pages = 0; //from wp
+		    this.td_filter_value = ''; //current live filter value
+		    this.is_ajax_running = false;
+		    this.td_user_action = ''; // load more or infinite loader (used by the animation)
+		    this.header_color = '';
+		    this.ajax_pagination_infinite_stop = ''; //show load more at page x
+	    }
+
+        // td_js_generator - mini detector
+        ( function () {
+            var htmlTag = document.getElementsByTagName("html")[0];
+
+	        if ( navigator.userAgent.indexOf("MSIE 10.0") > -1 ) {
+                htmlTag.className += ' ie10';
+            }
+
+            if ( !!navigator.userAgent.match(/Trident.*rv\:11\./) ) {
+                htmlTag.className += ' ie11';
+            }
+
+	        if ( navigator.userAgent.indexOf("Edge") > -1 ) {
+                htmlTag.className += ' ieEdge';
+            }
+
+            if ( /(iPad|iPhone|iPod)/g.test(navigator.userAgent) ) {
+                htmlTag.className += ' td-md-is-ios';
+            }
+
+            var user_agent = navigator.userAgent.toLowerCase();
+            if ( user_agent.indexOf("android") > -1 ) {
+                htmlTag.className += ' td-md-is-android';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Mac OS X')  ) {
+                htmlTag.className += ' td-md-is-os-x';
+            }
+
+            if ( /chrom(e|ium)/.test(navigator.userAgent.toLowerCase()) ) {
+               htmlTag.className += ' td-md-is-chrome';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Firefox') ) {
+                htmlTag.className += ' td-md-is-firefox';
+            }
+
+            if ( -1 !== navigator.userAgent.indexOf('Safari') && -1 === navigator.userAgent.indexOf('Chrome') ) {
+                htmlTag.className += ' td-md-is-safari';
+            }
+
+            if( -1 !== navigator.userAgent.indexOf('IEMobile') ){
+                htmlTag.className += ' td-md-is-iemobile';
+            }
+
+        })();
+
+        var tdLocalCache = {};
+
+        ( function () {
+            "use strict";
+
+            tdLocalCache = {
+                data: {},
+                remove: function (resource_id) {
+                    delete tdLocalCache.data[resource_id];
+                },
+                exist: function (resource_id) {
+                    return tdLocalCache.data.hasOwnProperty(resource_id) && tdLocalCache.data[resource_id] !== null;
+                },
+                get: function (resource_id) {
+                    return tdLocalCache.data[resource_id];
+                },
+                set: function (resource_id, cachedData) {
+                    tdLocalCache.remove(resource_id);
+                    tdLocalCache.data[resource_id] = cachedData;
+                }
+            };
+        })();
+
+    
+    
+var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];
+var td_animation_stack_effect="type0";
+var tds_animation_stack=true;
+var td_animation_stack_specific_selectors=".entry-thumb, img, .td-lazy-img";
+var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img, .td-animation-stack .td-lazy-img";
+var tds_show_more_info="Show more info";
+var tds_show_less_info="Show less info";
+var tdc_is_installed="yes";
+var td_ajax_url="https:\/\/usupdates.org\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=12.6.9";
+var td_get_template_directory_uri="https:\/\/usupdates.org\/wp-content\/plugins\/td-composer\/legacy\/common";
+var tds_snap_menu="";
+var tds_logo_on_sticky="";
+var tds_header_style="";
+var td_please_wait="Please wait...";
+var td_email_user_pass_incorrect="User or password incorrect!";
+var td_email_user_incorrect="Email or username incorrect!";
+var td_email_incorrect="Email incorrect!";
+var td_user_incorrect="Username incorrect!";
+var td_email_user_empty="Email or username empty!";
+var td_pass_empty="Pass empty!";
+var td_pass_pattern_incorrect="Invalid Pass Pattern!";
+var td_retype_pass_incorrect="Retyped Pass incorrect!";
+var tds_more_articles_on_post_enable="";
+var tds_more_articles_on_post_time_to_wait="";
+var tds_more_articles_on_post_pages_distance_from_top=0;
+var tds_captcha="";
+var tds_theme_color_site_wide="#4db2ec";
+var tds_smart_sidebar="";
+var tdThemeName="Newspaper";
+var tdThemeNameWl="Newspaper";
+var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";
+var td_magnific_popup_translation_tNext="Next (Right arrow key)";
+var td_magnific_popup_translation_tCounter="%curr% of %total%";
+var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";
+var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";
+var tdBlockNonce="5a039a8694";
+var tdMobileMenu="enabled";
+var tdMobileSearch="enabled";
+var tdDateNamesI18n={"month_names":["January","February","March","April","May","June","July","August","September","October","November","December"],"month_names_short":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"day_names":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"day_names_short":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]};
+var td_reset_pass_empty="Please enter a new password before proceeding.";
+var td_reset_pass_confirm_empty="Please confirm the new password before proceeding.";
+var td_reset_pass_not_matching="Please make sure that the passwords match.";
+var tdb_modal_confirm="Save";
+var tdb_modal_cancel="Cancel";
+var tdb_modal_confirm_alt="Yes";
+var tdb_modal_cancel_alt="No";
+var td_deploy_mode="deploy";
+var td_ad_background_click_link="";
+var td_ad_background_click_target="";
+</script>
+
+
+<!-- Header style compiled by theme -->
+
+<style>:root{--td_mobile_menu_color:#ffffff;--td_mobile_icons_color:#0a0a0a}:root{--td_mobile_menu_color:#ffffff;--td_mobile_icons_color:#0a0a0a}</style>
+
+<meta name="publisuites-verify-code" content="aHR0cHM6Ly91c3VwZGF0ZXMuY29t" /><link rel="icon" href="https://usupdates.org/wp-content/uploads/2018/09/cropped-fevicon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://usupdates.org/wp-content/uploads/2018/09/cropped-fevicon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://usupdates.org/wp-content/uploads/2018/09/cropped-fevicon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://usupdates.org/wp-content/uploads/2018/09/cropped-fevicon-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			.td-post-content p{text-align:justify}
+iframe#aswift_1{display:none}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: roboto,sans-serif;
+    color: #fa6812;
+    font-weight: 900;
+    margin: 6px 0;
+}
+element.style {
+    width: 250px;
+    margin-top: 20px;
+    width: 150;
+    height: 100;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.entry-thumb
+{
+	width:100% !important;
+}
+span.td-module-comments {
+    display: none !important;
+}
+
+#comments{
+display: none !important;
+}
+
+#tdi_38 .td-module-thumb a img {
+    width: 30% !important;
+}
+
+
+[id="tdi_37"] .td-module-thumb .entry-thumb {
+    display: block;
+    width: 100px !important;
+    height: 82px;
+}
+.td-container.td-header-row.td-header-top-menu {
+    display: none;
+}
+
+.footer-logo-wrap img {
+    background: #fff;
+    border-radius: 5px;
+}
+
+
+
+.td-post-comments {
+    display: none;
+}
+.wpb_wrapper.td_block_wrap.vc_raw_html.tdi_22 {
+    display: none;
+}		</style>
+		
+<!-- Button style compiled by theme -->
+
+<style></style>
+
+	<style id="tdw-css-placeholder"></style></head>
+
+<body class="error404 wp-theme-Newspaper td-standard-pack global-block-template-1 td-animation-stack-type0 td-full-layout" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+
+<div class="td-scroll-up" data-style="style1"><i class="td-icon-menu-up"></i></div>
+    <div class="td-menu-background" style="visibility:hidden"></div>
+<div id="td-mobile-nav" style="visibility:hidden">
+    <div class="td-mobile-container">
+        <!-- mobile menu top section -->
+        <div class="td-menu-socials-wrap">
+            <!-- socials -->
+            <div class="td-menu-socials">
+                            </div>
+            <!-- close button -->
+            <div class="td-mobile-close">
+                <span><i class="td-icon-close-mobile"></i></span>
+            </div>
+        </div>
+
+        <!-- login section -->
+        
+        <!-- menu section -->
+        <div class="td-mobile-content">
+            <div class="menu-main-container"><ul id="menu-main" class="td-mobile-main-menu"><li id="menu-item-18259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first menu-item-18259"><a href="https://usupdates.org/contact-us/">Contact</a></li>
+<li id="menu-item-46837" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-46837"><a href="https://usupdates.org/">Home</a></li>
+<li id="menu-item-6167" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6167"><a href="https://usupdates.org/health/">Health</a></li>
+<li id="menu-item-6171" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6171"><a href="https://usupdates.org/business/">Business</a></li>
+<li id="menu-item-19231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19231"><a href="https://usupdates.org/business/home/home-improvement/">Home Decor</a></li>
+<li id="menu-item-19232" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19232"><a href="https://usupdates.org/travel/">Travel</a></li>
+<li id="menu-item-19233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19233"><a href="https://usupdates.org/education/">Education</a></li>
+<li id="menu-item-19234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-19234"><a href="https://usupdates.org/finance/">Finance</a></li>
+<li id="menu-item-6175" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6175"><a href="https://usupdates.org/lifestyle/">Lifestyle<i class="td-icon-menu-right td-element-after"></i></a>
+<ul class="sub-menu">
+	<li id="menu-item-2049" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2049"><a href="https://usupdates.org/entertainment/">Entertainment</a></li>
+	<li id="menu-item-6172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6172"><a href="#">More<i class="td-icon-menu-right td-element-after"></i></a>
+	<ul class="sub-menu">
+		<li id="menu-item-6176" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6176"><a href="https://usupdates.org/lists/">Lists</a></li>
+		<li id="menu-item-77" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-77"><a href="https://usupdates.org/us/">US</a></li>
+		<li id="menu-item-6178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6178"><a href="https://usupdates.org/tech/">Tech</a></li>
+		<li id="menu-item-2050" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2050"><a href="https://usupdates.org/sports/">Sports</a></li>
+		<li id="menu-item-79" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-79"><a href="https://usupdates.org/economy/">Economy</a></li>
+		<li id="menu-item-6169" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6169"><a href="https://usupdates.org/articles/">Articles</a></li>
+		<li id="menu-item-6177" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6177"><a href="https://usupdates.org/movie-list/">Movie List</a></li>
+		<li id="menu-item-78" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-78"><a href="https://usupdates.org/international/">International</a></li>
+		<li id="menu-item-6174" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6174"><a href="https://usupdates.org/bollywood-news/">Bollywood News</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-6168" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-6168"><a href="https://usupdates.org/news/">News</a></li>
+</ul></div>        </div>
+    </div>
+
+    <!-- register/login section -->
+    </div><div class="td-search-background" style="visibility:hidden"></div>
+<div class="td-search-wrap-mob" style="visibility:hidden">
+	<div class="td-drop-down-search">
+		<form method="get" class="td-search-form" action="https://usupdates.org/">
+			<!-- close button -->
+			<div class="td-search-close">
+				<span><i class="td-icon-close-mobile"></i></span>
+			</div>
+			<div role="search" class="td-search-input">
+				<span>Search</span>
+				<input id="td-header-search-mob" type="text" value="" name="s" autocomplete="off" />
+			</div>
+		</form>
+		<div id="td-aj-search-mob" class="td-ajax-search-flex"></div>
+	</div>
+</div>
+
+    <div id="td-outer-wrap" class="td-theme-wrap">
+    
+        
+            <div class="tdc-header-wrap ">
+
+            <!--
+Header style 1
+-->
+
+
+<div class="td-header-wrap td-header-style-1 ">
+    
+    <div class="td-header-top-menu-full td-container-wrap ">
+        <div class="td-container td-header-row td-header-top-menu">
+            
+    <div class="top-bar-style-1">
+        
+<div class="td-header-sp-top-menu">
+
+
+	<div class="menu-top-container"><ul id="menu-amp" class="top-header-menu"><li id="menu-item-18258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-18258"><a href="https://usupdates.org/contact-us/">Contact Us</a></li>
+<li id="menu-item-46836" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home td-menu-item td-normal-menu menu-item-46836"><a href="https://usupdates.org/">Home</a></li>
+<li id="menu-item-9202" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-9202"><a href="https://usupdates.org/news/">News</a></li>
+<li id="menu-item-9203" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-9203"><a href="https://usupdates.org/health/">Health</a></li>
+<li id="menu-item-9204" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-9204"><a href="https://usupdates.org/entertainment/tv-shows/">TV Shows</a></li>
+<li id="menu-item-9205" class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-9205"><a href="https://usupdates.org/entertainment/movie-trailers/">Movie Trailers</a></li>
+</ul></div></div>
+        <div class="td-header-sp-top-widget">
+    
+    </div>
+
+    </div>
+
+<!-- LOGIN MODAL -->
+
+                <div id="login-form" class="white-popup-block mfp-hide mfp-with-anim td-login-modal-wrap">
+                    <div class="td-login-wrap">
+                        <a href="#" aria-label="Back" class="td-back-button"><i class="td-icon-modal-back"></i></a>
+                        <div id="td-login-div" class="td-login-form-div td-display-block">
+                            <div class="td-login-panel-title">Sign in</div>
+                            <div class="td-login-panel-descr">Welcome! Log into your account</div>
+                            <div class="td_display_err"></div>
+                            <form id="loginForm" action="#" method="post">
+                                <div class="td-login-inputs"><input class="td-login-input" autocomplete="username" type="text" name="login_email" id="login_email" value="" required><label for="login_email">your username</label></div>
+                                <div class="td-login-inputs"><input class="td-login-input" autocomplete="current-password" type="password" name="login_pass" id="login_pass" value="" required><label for="login_pass">your password</label></div>
+                                <input type="button"  name="login_button" id="login_button" class="wpb_button btn td-login-button" value="Login">
+                                
+                            </form>
+
+                            
+
+                            <div class="td-login-info-text"><a href="#" id="forgot-pass-link">Forgot your password? Get help</a></div>
+                            
+                            
+                            
+                            
+                        </div>
+
+                        
+
+                         <div id="td-forgot-pass-div" class="td-login-form-div td-display-none">
+                            <div class="td-login-panel-title">Password recovery</div>
+                            <div class="td-login-panel-descr">Recover your password</div>
+                            <div class="td_display_err"></div>
+                            <form id="forgotpassForm" action="#" method="post">
+                                <div class="td-login-inputs"><input class="td-login-input" type="text" name="forgot_email" id="forgot_email" value="" required><label for="forgot_email">your email</label></div>
+                                <input type="button" name="forgot_button" id="forgot_button" class="wpb_button btn td-login-button" value="Send My Password">
+                            </form>
+                            <div class="td-login-info-text">A password will be e-mailed to you.</div>
+                        </div>
+                        
+                        
+                    </div>
+                </div>
+                        </div>
+    </div>
+
+    <div class="td-banner-wrap-full td-logo-wrap-full td-container-wrap ">
+        <div class="td-container td-header-row td-header-header">
+            <div class="td-header-sp-logo">
+                        <a class="td-main-logo" href="https://usupdates.org/">
+            <img class="td-retina-data" data-retina="https://usupdates.org/wp-content/uploads/2025/01/sticky_logo@2x-300x94-1.webp" src="https://usupdates.org/wp-content/uploads/2025/01/sticky_logo@2x-300x94-1.webp" alt=""  width="300" height="94"/>
+            <span class="td-visual-hidden">US Updates</span>
+        </a>
+                </div>
+                    </div>
+    </div>
+
+    <div class="td-header-menu-wrap-full td-container-wrap ">
+        
+        <div class="td-header-menu-wrap td-header-gradient ">
+            <div class="td-container td-header-row td-header-main-menu">
+                <div id="td-header-menu" role="navigation">
+        <div id="td-top-mobile-toggle"><a href="#" role="button" aria-label="Menu"><i class="td-icon-font td-icon-mobile"></i></a></div>
+        <div class="td-main-menu-logo td-logo-in-header">
+        		<a class="td-mobile-logo td-sticky-disable" aria-label="Logo" href="https://usupdates.org/">
+			<img class="td-retina-data" data-retina="https://usupdates.org/wp-content/uploads/2018/09/sticky_logo@2x-300x94.png" src="https://usupdates.org/wp-content/uploads/2018/09/sticky_logo@2x-300x94.png" alt=""  width="" height=""/>
+		</a>
+			<a class="td-header-logo td-sticky-disable" aria-label="Logo" href="https://usupdates.org/">
+			<img class="td-retina-data" data-retina="https://usupdates.org/wp-content/uploads/2025/01/sticky_logo@2x-300x94-1.webp" src="https://usupdates.org/wp-content/uploads/2025/01/sticky_logo@2x-300x94-1.webp" alt=""  width="" height=""/>
+		</a>
+	    </div>
+    <div class="menu-main-container"><ul id="menu-main-1" class="sf-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-18259"><a href="https://usupdates.org/contact-us/">Contact</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home td-menu-item td-normal-menu menu-item-46837"><a href="https://usupdates.org/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6167"><a href="https://usupdates.org/health/">Health</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6171"><a href="https://usupdates.org/business/">Business</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-19231"><a href="https://usupdates.org/business/home/home-improvement/">Home Decor</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-19232"><a href="https://usupdates.org/travel/">Travel</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-19233"><a href="https://usupdates.org/education/">Education</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-19234"><a href="https://usupdates.org/finance/">Finance</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children td-menu-item td-normal-menu menu-item-6175"><a href="https://usupdates.org/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2049"><a href="https://usupdates.org/entertainment/">Entertainment</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children td-menu-item td-normal-menu menu-item-6172"><a href="#">More</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6176"><a href="https://usupdates.org/lists/">Lists</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-77"><a href="https://usupdates.org/us/">US</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6178"><a href="https://usupdates.org/tech/">Tech</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-2050"><a href="https://usupdates.org/sports/">Sports</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-79"><a href="https://usupdates.org/economy/">Economy</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6169"><a href="https://usupdates.org/articles/">Articles</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6177"><a href="https://usupdates.org/movie-list/">Movie List</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-78"><a href="https://usupdates.org/international/">International</a></li>
+		<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6174"><a href="https://usupdates.org/bollywood-news/">Bollywood News</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category td-menu-item td-normal-menu menu-item-6168"><a href="https://usupdates.org/news/">News</a></li>
+</ul></div></div>
+
+
+    <div class="header-search-wrap">
+        <div class="td-search-btns-wrap">
+            <a id="td-header-search-button" href="#" role="button" aria-label="Search" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                            <a id="td-header-search-button-mob" href="#" role="button" aria-label="Search" class="dropdown-toggle " data-toggle="dropdown"><i class="td-icon-search"></i></a>
+                    </div>
+
+        <div class="td-drop-down-search" aria-labelledby="td-header-search-button">
+            <form method="get" class="td-search-form" action="https://usupdates.org/">
+                <div role="search" class="td-head-form-search-wrap">
+                    <input id="td-header-search" type="text" value="" name="s" autocomplete="off" /><input class="wpb_button wpb_btn-inverse btn" type="submit" id="td-header-search-top" value="Search" />
+                </div>
+            </form>
+            <div id="td-aj-search"></div>
+        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+            </div>
+
+            
+<div class="td-main-content-wrap td-container-wrap">
+    <div class="td-container">
+        <div class="td-pb-row">
+            <div class="td-pb-span12">
+                <div class="td-404-title">
+                    Ooops... Error 404                </div>
+
+                <div class="td-404-sub-title">
+                    Sorry, but the page you are looking for doesn't exist.                </div>
+
+                <div class="td-404-sub-sub-title">
+                    You can go to the                    <a href="https://usupdates.org/">HOMEPAGE</a>
+
+                </div>
+
+
+                <h4 class="block-title"><span>OUR LATEST POSTS</span></h4>
+
+                
+
+	<div class="td-block-row">
+
+	<div class="td-block-span4">
+<!-- module -->
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://usupdates.org/tuckpointing-how-proper-mortar-repair-extends-the-life-of-your-chimney/"  rel="bookmark" class="td-image-wrap " title="Tuckpointing: How Proper Mortar Repair Extends the Life of Your Chimney" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAACgAQMAAABOhoelAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAB1JREFUWMPtwTEBAAAAwiD7p/ZdCGAAAAAAAAAQBxpAAAH8le3bAAAAAElFTkSuQmCC" alt="" title="Tuckpointing: How Proper Mortar Repair Extends the Life of Your Chimney" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2026/02/Chimney-324x160.jpg"  width="324" height="160" /></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/tuckpointing-how-proper-mortar-repair-extends-the-life-of-your-chimney/"  rel="bookmark" title="Tuckpointing: How Proper Mortar Repair Extends the Life of Your Chimney">Tuckpointing: How Proper Mortar Repair Extends the Life of Your Chimney</a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="https://usupdates.org/author/varsha/">varsha</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-02-27T02:15:30-05:00" >February 27, 2026</time></span>                <span class="td-module-comments"><a href="https://usupdates.org/tuckpointing-how-proper-mortar-repair-extends-the-life-of-your-chimney/#respond">0</a></span>            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+<!-- module -->
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://usupdates.org/understanding-credit-card-transaction-alerts-and-why-they-matter/"  rel="bookmark" class="td-image-wrap " title="Understanding Credit Card Transaction Alerts and Why They Matter" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAACgAQMAAABOhoelAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAB1JREFUWMPtwTEBAAAAwiD7p/ZdCGAAAAAAAAAQBxpAAAH8le3bAAAAAElFTkSuQmCC" alt="" title="Understanding Credit Card Transaction Alerts and Why They Matter" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2026/02/Bank-324x160.jpg"  width="324" height="160" /></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/understanding-credit-card-transaction-alerts-and-why-they-matter/"  rel="bookmark" title="Understanding Credit Card Transaction Alerts and Why They Matter">Understanding Credit Card Transaction Alerts and Why They Matter</a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="https://usupdates.org/author/varsha/">varsha</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-02-26T07:01:35-05:00" >February 26, 2026</time></span>                <span class="td-module-comments"><a href="https://usupdates.org/understanding-credit-card-transaction-alerts-and-why-they-matter/#respond">0</a></span>            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+<!-- module -->
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://usupdates.org/wedding-guest-wear-today-dressing-with-ease-elegance-and-intent/"  rel="bookmark" class="td-image-wrap " title="Wedding Guest Wear Today &#8211; Dressing with Ease, Elegance, and Intent" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAACgAQMAAABOhoelAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAB1JREFUWMPtwTEBAAAAwiD7p/ZdCGAAAAAAAAAQBxpAAAH8le3bAAAAAElFTkSuQmCC" alt="" title="Wedding Guest Wear Today &#8211; Dressing with Ease, Elegance, and Intent" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2026/02/k-324x160.jpg"  width="324" height="160" /></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/wedding-guest-wear-today-dressing-with-ease-elegance-and-intent/"  rel="bookmark" title="Wedding Guest Wear Today &#8211; Dressing with Ease, Elegance, and Intent">Wedding Guest Wear Today &#8211; Dressing with Ease, Elegance, and Intent</a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="https://usupdates.org/author/varsha/">varsha</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-02-21T07:56:53-05:00" >February 21, 2026</time></span>                <span class="td-module-comments"><a href="https://usupdates.org/wedding-guest-wear-today-dressing-with-ease-elegance-and-intent/#respond">0</a></span>            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 --></div><!--./row-fluid-->
+
+	<div class="td-block-row">
+
+	<div class="td-block-span4">
+<!-- module -->
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://usupdates.org/tm-sim-registration-2026/"  rel="bookmark" class="td-image-wrap " title="TM SIM Registration 2026" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAACgAQMAAABOhoelAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAB1JREFUWMPtwTEBAAAAwiD7p/ZdCGAAAAAAAAAQBxpAAAH8le3bAAAAAElFTkSuQmCC" alt="" title="TM SIM Registration 2026" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2026/02/om-324x160.png"  width="324" height="160" /></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/tm-sim-registration-2026/"  rel="bookmark" title="TM SIM Registration 2026">TM SIM Registration 2026</a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="https://usupdates.org/author/varsha/">varsha</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-02-17T05:13:21-05:00" >February 17, 2026</time></span>                <span class="td-module-comments"><a href="https://usupdates.org/tm-sim-registration-2026/#respond">0</a></span>            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+<!-- module -->
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://usupdates.org/leading-real-estate-into-the-digital-era-with-alexander-prokhorov/"  rel="bookmark" class="td-image-wrap " title="Leading Real Estate Into the Digital Era with Alexander Prokhorov " ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAACgAQMAAABOhoelAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAB1JREFUWMPtwTEBAAAAwiD7p/ZdCGAAAAAAAAAQBxpAAAH8le3bAAAAAElFTkSuQmCC" alt="" title="Leading Real Estate Into the Digital Era with Alexander Prokhorov " data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2026/02/cover-photo-324x160.png"  width="324" height="160" /></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/leading-real-estate-into-the-digital-era-with-alexander-prokhorov/"  rel="bookmark" title="Leading Real Estate Into the Digital Era with Alexander Prokhorov ">Leading Real Estate Into the Digital Era with Alexander Prokhorov </a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="https://usupdates.org/author/varsha/">varsha</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-02-09T04:36:23-05:00" >February 9, 2026</time></span>                <span class="td-module-comments"><a href="https://usupdates.org/leading-real-estate-into-the-digital-era-with-alexander-prokhorov/#respond">0</a></span>            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 -->
+
+	<div class="td-block-span4">
+<!-- module -->
+        <div class="td_module_1 td_module_wrap td-animation-stack">
+            <div class="td-module-image">
+                <div class="td-module-thumb"><a href="https://usupdates.org/helping-north-american-fleets-stay-mobile-as-market-conditions-shift/"  rel="bookmark" class="td-image-wrap " title="Helping North American Fleets Stay Mobile as Market Conditions Shift" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUQAAACgAQMAAABOhoelAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAAB1JREFUWMPtwTEBAAAAwiD7p/ZdCGAAAAAAAAAQBxpAAAH8le3bAAAAAElFTkSuQmCC" alt="" title="Helping North American Fleets Stay Mobile as Market Conditions Shift" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2026/01/kb-324x160.png"  width="324" height="160" /></a></div>                            </div>
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/helping-north-american-fleets-stay-mobile-as-market-conditions-shift/"  rel="bookmark" title="Helping North American Fleets Stay Mobile as Market Conditions Shift">Helping North American Fleets Stay Mobile as Market Conditions Shift</a></h3>
+            <div class="td-module-meta-info">
+                <span class="td-post-author-name"><a href="https://usupdates.org/author/varsha/">varsha</a> <span>-</span> </span>                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2026-01-16T06:58:49-05:00" >January 16, 2026</time></span>                <span class="td-module-comments"><a href="https://usupdates.org/helping-north-american-fleets-stay-mobile-as-market-conditions-shift/#respond">0</a></span>            </div>
+
+            
+        </div>
+
+        
+	</div> <!-- ./td-block-span4 --></div><!--./row-fluid-->            </div>
+        </div> <!-- /.td-pb-row -->
+    </div> <!-- /.td-container -->
+</div> <!-- /.td-main-content-wrap -->
+
+
+	
+	
+            <div class="tdc-footer-wrap ">
+
+                <!-- Footer -->
+				<div class="td-footer-wrapper td-footer-container td-container-wrap td-footer-template-2 ">
+    <div class="td-container">
+
+	    <div class="td-pb-row">
+		    <div class="td-pb-span12">
+			    		    </div>
+	    </div>
+
+        <div class="td-pb-row">
+
+            <div class="td-pb-span4">
+                <div class="td-footer-info"><div class="footer-logo-wrap"><a href="https://usupdates.org/"><img class="td-retina-data" src="https://usupdates.org/wp-content/uploads/2025/01/sticky_logo@2x-300x94-1.webp" data-retina="https://usupdates.org/wp-content/uploads/2025/01/sticky_logo@2x-300x94-1.webp" alt="" title=""  width="300" height="94" /></a></div><div class="footer-text-wrap"></div><div class="footer-social-wrap td-social-style-2"></div></div>                <aside class="td_block_template_1 widget widget_text"><h4 class="block-title"><span>AMAZON ASSOCIATES DISCLOSURE</span></h4>			<div class="textwidget"><p><span style="font-weight: 400;">usupdates.org Is A Participant In The Amazon Services LLC Associates Program, An Affiliate Advertising Program Designed To Provide A Means For Sites To Earn Advertising Fees By Advertising And Linking To Amazon.Com.</span></p>
+<p><span style="font-weight: 400;">Clicking On An Amazon Link From usupdates.org Does Not Increase The Cost Of Any Item You Purchase.</span></p>
+<p><span style="font-weight: 400;">We Will Only Ever Link To Amazon Products That We Think Our Visitors May Be Interested In And Appreciate Learning More About.</span></p>
+</div>
+		</aside>            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_7 tdi_2 td-pb-border-top td_block_template_1 td-column-1 td_block_padding"  data-td-block-uid="tdi_2" ><script>var block_tdi_2 = new tdBlock();
+block_tdi_2.id = "tdi_2";
+block_tdi_2.atts = '{"custom_title":"POPULAR POSTS","limit":3,"sort":"popular","block_type":"td_block_7","separator":"","custom_url":"","block_template_id":"","m6_tl":"","post_ids":"","category_id":"","taxonomies":"","category_ids":"","in_all_terms":"","tag_slug":"","autors_id":"","installed_post_types":"","include_cf_posts":"","exclude_cf_posts":"","popular_by_date":"","linked_posts":"","favourite_only":"","offset":"","open_in_new_window":"","show_modified_date":"","time_ago":"","time_ago_add_txt":"ago","time_ago_txt_pos":"","review_source":"","el_class":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","td_ajax_preloading":"","f_header_font_header":"","f_header_font_title":"Block header","f_header_font_settings":"","f_header_font_family":"","f_header_font_size":"","f_header_font_line_height":"","f_header_font_style":"","f_header_font_weight":"","f_header_font_transform":"","f_header_font_spacing":"","f_header_":"","f_ajax_font_title":"Ajax categories","f_ajax_font_settings":"","f_ajax_font_family":"","f_ajax_font_size":"","f_ajax_font_line_height":"","f_ajax_font_style":"","f_ajax_font_weight":"","f_ajax_font_transform":"","f_ajax_font_spacing":"","f_ajax_":"","f_more_font_title":"Load more button","f_more_font_settings":"","f_more_font_family":"","f_more_font_size":"","f_more_font_line_height":"","f_more_font_style":"","f_more_font_weight":"","f_more_font_transform":"","f_more_font_spacing":"","f_more_":"","m6f_title_font_header":"","m6f_title_font_title":"Article title","m6f_title_font_settings":"","m6f_title_font_family":"","m6f_title_font_size":"","m6f_title_font_line_height":"","m6f_title_font_style":"","m6f_title_font_weight":"","m6f_title_font_transform":"","m6f_title_font_spacing":"","m6f_title_":"","m6f_cat_font_title":"Article category tag","m6f_cat_font_settings":"","m6f_cat_font_family":"","m6f_cat_font_size":"","m6f_cat_font_line_height":"","m6f_cat_font_style":"","m6f_cat_font_weight":"","m6f_cat_font_transform":"","m6f_cat_font_spacing":"","m6f_cat_":"","m6f_meta_font_title":"Article meta info","m6f_meta_font_settings":"","m6f_meta_font_family":"","m6f_meta_font_size":"","m6f_meta_font_line_height":"","m6f_meta_font_style":"","m6f_meta_font_weight":"","m6f_meta_font_transform":"","m6f_meta_font_spacing":"","m6f_meta_":"","ajax_pagination":"","ajax_pagination_next_prev_swipe":"","ajax_pagination_infinite_stop":"","css":"","tdc_css":"","td_column_number":1,"header_color":"","color_preset":"","border_top":"","class":"tdi_2","tdc_css_class":"tdi_2","tdc_css_class_style":"tdi_2_rand_style"}';
+block_tdi_2.td_column_number = "1";
+block_tdi_2.block_type = "td_block_7";
+block_tdi_2.post_count = "3";
+block_tdi_2.found_posts = "5887";
+block_tdi_2.header_color = "";
+block_tdi_2.ajax_pagination_infinite_stop = "";
+block_tdi_2.max_num_pages = "1963";
+tdBlocksArray.push(block_tdi_2);
+</script><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">POPULAR POSTS</span></h4></div><div id=tdi_2 class="td_block_inner">
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://usupdates.org/halloween-celebration-ending-shifts-the-target-to-black-friday-promotion/"  rel="bookmark" class="td-image-wrap " title="Halloween Celebration Ending shifts the Target to Black Friday Promotion" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABGAQMAAAAASKMqAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABBJREFUKM9jGAWjYBQMKwAAA9QAAQWBn6cAAAAASUVORK5CYII=" alt="Black Friday Promotion Ideas" title="Halloween Celebration Ending shifts the Target to Black Friday Promotion" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2018/11/Black-Friday-Promotion-Ideas.jpg"  width="100" height="56" /></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/halloween-celebration-ending-shifts-the-target-to-black-friday-promotion/"  rel="bookmark" title="Halloween Celebration Ending shifts the Target to Black Friday Promotion">Halloween Celebration Ending shifts the Target to Black Friday Promotion</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2018-11-01T16:59:35-04:00" >November 1, 2018</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://usupdates.org/how-to-diversify-your-stock-portfolio/"  rel="bookmark" class="td-image-wrap " title="How to diversify your stock portfolio" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABGAQMAAAAASKMqAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABBJREFUKM9jGAWjYBQMKwAAA9QAAQWBn6cAAAAASUVORK5CYII=" alt="stock portfolio" title="How to diversify your stock portfolio" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2023/05/stock-portfolio-100x70.jpg"  width="100" height="70" /></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/how-to-diversify-your-stock-portfolio/"  rel="bookmark" title="How to diversify your stock portfolio">How to diversify your stock portfolio</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2023-05-26T05:49:24-04:00" >May 26, 2023</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 -->
+
+	<div class="td-block-span12">
+
+        <div class="td_module_6 td_module_wrap td-animation-stack">
+
+        <div class="td-module-thumb"><a href="https://usupdates.org/david-bolno-why-family-and-community-matter/"  rel="bookmark" class="td-image-wrap " title="David Bolno: Why Family And Community Matter" ><img class="entry-thumb" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABGAQMAAAAASKMqAAAAA1BMVEWurq51dlI4AAAAAXRSTlMmkutdmwAAABBJREFUKM9jGAWjYBQMKwAAA9QAAQWBn6cAAAAASUVORK5CYII=" alt="" title="David Bolno: Why Family And Community Matter" data-type="image_tag" data-img-url="https://usupdates.org/wp-content/uploads/2023/05/unnamed-1-100x70.jpg"  width="100" height="70" /></a></div>
+        <div class="item-details">
+            <h3 class="entry-title td-module-title"><a href="https://usupdates.org/david-bolno-why-family-and-community-matter/"  rel="bookmark" title="David Bolno: Why Family And Community Matter">David Bolno: Why Family And Community Matter</a></h3>            <div class="td-module-meta-info">
+                                                <span class="td-post-date"><time class="entry-date updated td-module-date" datetime="2023-05-01T03:48:38-04:00" >May 1, 2023</time></span>                            </div>
+        </div>
+
+        </div>
+
+        
+	</div> <!-- ./td-block-span12 --></div></div> <!-- ./block -->                            </div>
+
+            <div class="td-pb-span4">
+                <div class="td_block_wrap td_block_popular_categories tdi_3 widget widget_categories td-pb-border-top td_block_template_1"  data-td-block-uid="tdi_3" >
+<style>.td_block_popular_categories{padding-bottom:0}</style><div class="td-block-title-wrap"><h4 class="block-title td-block-title"><span class="td-pulldown-size">POPULAR CATEGORY</span></h4></div><ul class="td-pb-padding-side"><li><a href="https://usupdates.org/news/"><span class="td-cat-name">News</span><span class="td-cat-no">916</span></a></li><li><a href="https://usupdates.org/entertainment/tv-shows/"><span class="td-cat-name">TV Shows</span><span class="td-cat-no">712</span></a></li><li><a href="https://usupdates.org/tips/"><span class="td-cat-name">Tips</span><span class="td-cat-no">503</span></a></li><li><a href="https://usupdates.org/business/"><span class="td-cat-name">Business</span><span class="td-cat-no">410</span></a></li><li><a href="https://usupdates.org/health/"><span class="td-cat-name">Health</span><span class="td-cat-no">333</span></a></li><li><a href="https://usupdates.org/tech/"><span class="td-cat-name">Tech</span><span class="td-cat-no">262</span></a></li><li><a href="https://usupdates.org/articles/"><span class="td-cat-name">Articles</span><span class="td-cat-no">239</span></a></li><li><a href="https://usupdates.org/lifestyle/"><span class="td-cat-name">Lifestyle</span><span class="td-cat-no">236</span></a></li><li><a href="https://usupdates.org/misc/"><span class="td-cat-name">Misc</span><span class="td-cat-no">189</span></a></li></ul></div>                            </div>
+        </div>
+    </div>
+</div>
+
+                <!-- Sub Footer -->
+				    <div class="td-sub-footer-container td-container-wrap ">
+        <div class="td-container">
+            <div class="td-pb-row">
+                <div class="td-pb-span td-sub-footer-menu">
+                    <div class="menu-footer-container"><ul id="menu-footer" class="td-subfooter-menu"><li id="menu-item-17852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-first td-menu-item td-normal-menu menu-item-17852"><a href="https://usupdates.org/contact-us/">Contact Us</a></li>
+<li id="menu-item-17851" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17851"><a href="https://usupdates.org/about/">About</a></li>
+<li id="menu-item-17853" class="menu-item menu-item-type-post_type menu-item-object-page td-menu-item td-normal-menu menu-item-17853"><a href="https://usupdates.org/privacy-policy/">Privacy Policy</a></li>
+</ul></div>                </div>
+
+                <div class="td-pb-span td-sub-footer-copy">
+                    &copy;   Copyright © 2026 All Rights Reserved | Powered by Usupdates                </div>
+            </div>
+        </div>
+    </div>
+            </div><!--close td-footer-wrap-->
+			
+
+</div><!--close td-outer-wrap-->
+
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/Newspaper/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style" style="left:0px;top:260px;background-color:transparent"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_pinterest" href="https://www.addtoany.com/add_to/pinterest?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="Pinterest" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_facebook_messenger" href="https://www.addtoany.com/add_to/facebook_messenger?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="Messenger" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fusupdates.org%2Fwp-content%2Fuploads%2F2019%2F08%2FRocking-Horse.zip&amp;linkname=Page%20not%20found%20-%20US%20Updates" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share"></a></div>
+
+    <!--
+
+        Theme: Newspaper by tagDiv.com 2025
+        Version: 12.6.9 (rara)
+        Deploy mode: deploy
+        
+        uid: 69a189c2939be
+    -->
+
+    <script type="text/javascript" src="https://usupdates.org/wp-content/plugins/td-composer/legacy/Newspaper/js/tagdiv_theme.min.js?ver=12.6.9" id="td-site-min-js"></script>
+<script type="text/javascript" src="https://usupdates.org/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="tds_js_files_for_front-js-extra">
+/* <![CDATA[ */
+var tds_js_globals = {"wpRestNonce":"bb21c22297","wpRestUrl":"https://usupdates.org/wp-json/","permalinkStructure":"/%postname%/"};
+//# sourceURL=tds_js_files_for_front-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://usupdates.org/wp-content/plugins/td-subscription/assets/js/js_files_for_front.min.js?ver=1.7" id="tds_js_files_for_front-js"></script>
+<script type="text/javascript" src="https://usupdates.org/wp-content/plugins/td-cloud-library/assets/js/js_files_for_front.min.js?ver=f6b4e4ee000751786489ff7d2b0c153a" id="tdb_js_files_for_front-js"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://usupdates.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://usupdates.org/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+
+
+<script type="text/javascript" src="https://usupdates.org/wp-content/plugins/td-composer/legacy/Newspaper/js/tdToTop.js?ver=12.6.9" id="tdToTop-js"></script>
+
+<script type="text/javascript" src="https://usupdates.org/wp-content/plugins/td-composer/legacy/Newspaper/js/tdAjaxSearch.js?ver=12.6.9" id="tdAjaxSearch-js"></script>
+
+<script type="text/javascript" src="https://usupdates.org/wp-content/plugins/td-composer/legacy/Newspaper/js/tdLogin.js?ver=12.6.9" id="tdLogin-js"></script>
+
+<script type="text/javascript" src="https://usupdates.org/wp-content/plugins/td-composer/legacy/Newspaper/js/tdMenu.js?ver=12.6.9" id="tdMenu-js"></script>
+<!-- JS generated by theme -->
+
+<script type="text/javascript" id="td-generated-footer-js">
+    
+</script>
+
+
+<script>var td_res_context_registered_atts=["style_general_popular_categories"];</script>
+
+</body>
+</html>

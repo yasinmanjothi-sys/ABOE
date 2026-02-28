@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import Link from 'next/link';
 
 export default function Intro() {
     return (
@@ -24,9 +25,9 @@ export default function Intro() {
             </div>
 
             {/* Action Button */}
-            <button className="px-8 py-3 rounded-[2rem] border-2 border-sage text-sage-dark font-caveat text-xs tracking-widest uppercase bg-cream pill-shadow">
+            <Link href="/reserve" className="inline-block px-8 py-3 rounded-[2rem] border-2 border-sage text-sage-dark font-caveat text-xs tracking-widest uppercase bg-cream pill-shadow text-center">
                 Book a table
-            </button>
+            </Link>
 
             {/* Bottom Border Line to next section */}
             <div className="w-full absolute bottom-0 left-0 h-px bg-sage-dark/30"></div>
